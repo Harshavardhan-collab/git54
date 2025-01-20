@@ -1,0 +1,16 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+.dark{
+  color:white;
+  
+  background-color: black;
+}
+.light{
+  color: black;
+  
+  background-color: white;
+}
